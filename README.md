@@ -1,9 +1,9 @@
-# 👨‍💻 Stephen T
+# 👨‍💻 Stephen THORLEY
 
 ```scheme
 ;; profile.scm
 (define me
-  '((name      . "Steve T")
+  '((name      . "Steve")
     ;; List of lists: ((Title Status) ...)
     (roles     . (("Linux Specialist" "Full Time")
                   ("Master's Student" "Part Time")))                  
